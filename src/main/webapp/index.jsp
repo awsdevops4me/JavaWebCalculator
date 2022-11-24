@@ -21,8 +21,6 @@
 <label>
 <input type="radio" name="r2" value="sub" />subtraction 
 <br />
-</label> 
-</div>
 <input type="submit" value="submit" />
 </form>
 </body>
